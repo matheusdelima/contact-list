@@ -1,0 +1,12 @@
+{
+    "name": "matheusdelim/contact-list",
+    "description": "This is a simple contact list addon for Wordpress.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Matheus de Lima Gomes",
+            "email": "matheusdelimagomes@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+}
